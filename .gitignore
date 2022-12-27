@@ -40,5 +40,6 @@ lerna-debug.log*
 
 #compiles
 *.d
+*.d.ts
 *.js
 *.js.*
